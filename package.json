@@ -1,7 +1,7 @@
 {
   "name": "react-starting-point",
   "version": "1.0.0",
-  "description": "Starting point for React, Redux and GraphQL training",
+  "description": "Starting point for React, Redux and GraphQL projects",
   "scripts": {
     "prestart": "babel-node tools/startMessage.js",
     "start": "npm-run-all --parallel test:watch open:src lint:watch",
@@ -67,6 +67,6 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@gitlab.nisumlatam.com:pdivasto/react-starting-project.git"
   }
 }
